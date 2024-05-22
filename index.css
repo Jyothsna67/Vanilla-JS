@@ -1,3 +1,19 @@
-h1 {
+body {
+    text-align: center;
+    display: relative;
+}
+#originalFruits, #sortedFruits, #filteredFruits {
+    display: inline-block;
+}
+h2 {
     color: brown;
+}
+button {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    
 }
